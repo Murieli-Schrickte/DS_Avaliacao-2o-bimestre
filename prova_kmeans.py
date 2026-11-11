@@ -67,7 +67,6 @@ print("Modelo definitivo treinado e salvo!")
 # ==========================================
 # MÓDULO DE INFERÊNCIA
 # ==========================================
-print("\n--- INICIANDO MÓDULO DE INFERÊNCIA ---")
 
 # 5. Receber dados de uma nova residência
 nova_residencia = [[0.02731, 0.0, 7.07, 0.0, 0.469, 6.421, 78.9, 4.9671, 2, 242, 17.8, 396.9, 9.14, 21.6]]
